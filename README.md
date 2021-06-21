@@ -1,5 +1,15 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Machine Learning and Computer Vision related projects.
+    - Object detection and tracking
+    - Face detection and face verification
+    - Masked face detection and masked face verification
 
+- 🌱 My current open-source contribution
+    - [Masked Face Representation](https://github.com/sachith500/MaskedFaceRepresentation)
+    
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nurankasthuriarachchi/)
 <!--
 **arachchi/arachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
