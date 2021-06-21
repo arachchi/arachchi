@@ -1,13 +1,15 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Machine Learning and Computer Vision related projects.
-    - Object detection and tracking
-    - Face detection and face verification
-    - Masked face detection and masked face verification
+- ⚡ Products I architected
+    - [Cupido](https://askcupido.com/) : The A.I dating coach
+    - [Akarsa](https://akarsa.ai/) : Online profile effectiveness evaluator
 
 - 🌱 My current open-source contribution
     - [Masked Face Representation](https://github.com/sachith500/MaskedFaceRepresentation)
     
-
+- 🔭 I’m currently working on Machine Learning and Computer Vision related projects.
+    - Object detection and tracking
+    - Face detection and face verification
+    - Masked face detection and masked face verification
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nurankasthuriarachchi/)
 <!--
