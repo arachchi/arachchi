@@ -3,6 +3,10 @@
     - [Cupido](https://askcupido.com/) : The A.I dating coach
     - [Akarsa](https://akarsa.ai/) : Online profile effectiveness evaluator
 
+- 👯 Researches I contributed
+    - [MFR 2021: Masked Face Recognition Competition](https://arxiv.org/abs/2106.15288)
+    - [Multi-Dataset Benchmarks for Masked Identification using Contrastive Representation Learning](https://arxiv.org/abs/2106.05596)
+
 - 🌱 My current open-source contribution
     - [Masked Face Representation](https://github.com/sachith500/MaskedFaceRepresentation)
     
