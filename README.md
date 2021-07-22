@@ -17,6 +17,8 @@
 
 If you are interested in my profile: Please visit [My Website](https://nuran.github.io/)
 
+Download [My CV](https://nuran.s3.ap-south-1.amazonaws.com/Nuran_Kasthuriarachchi_CV.pdf)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nurankasthuriarachchi/)
 <!--
 **arachchi/arachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
