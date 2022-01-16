@@ -17,7 +17,7 @@
 
 If you are interested in my profile: Please visit [My Website](https://nuran.github.io/)
 
-Download [My CV](https://nuran.s3.ap-south-1.amazonaws.com/Nuran_Kasthuriarachchi_CV.pdf)
+Download [My CV](https://nurank.s3.ap-southeast-1.amazonaws.com/Nuran_Kasthuriarachchi_CV.pdf)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nurankasthuriarachchi/)
 <!--
